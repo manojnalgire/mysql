@@ -20,3 +20,8 @@ Primary key(id)
 insert into Instructor(Name) values ('Krishna');
 insert into Instructor(Name) values ('Mohan');
 insert into Instructor(Name) values ('Varsha');
+
+-- Show table data
+SELECT 
+* 
+FROM Instructor;

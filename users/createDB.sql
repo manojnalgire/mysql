@@ -1,0 +1,3 @@
+-- createDB
+CREATE DATABASE UserDetails;
+
